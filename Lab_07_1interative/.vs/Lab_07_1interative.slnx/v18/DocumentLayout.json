@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\st\\AP\\07\\Lab_07_1\\Lab_07_1interative\\Lab_07_1interative\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E492DD5-134C-9483-A1EE-C9DABA804943}|..\\UnitTest1\\UnitTest1.vcxproj|C:\\st\\AP\\07\\Lab_07_1\\Lab_07_1interative\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4399A2-7864-421E-B824-F2AF432E225D}|Lab_07_1interative.vcxproj|C:\\st\\AP\\07\\Lab_07_1\\Lab_07_1interative\\Lab_07_1interative\\Lab_07_1interative.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF4399A2-7864-421E-B824-F2AF432E225D}|Lab_07_1interative.vcxproj|solutionrelative:Lab_07_1interative.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\st\\AP\\07\\Lab_07_1\\Lab_07_1interative\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\st\\AP\\07\\Lab_07_1\\Lab_07_1interative\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "..\\UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T11:13:03.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab_07_1interative.cpp",
+              "DocumentMoniker": "C:\\st\\AP\\07\\Lab_07_1\\Lab_07_1interative\\Lab_07_1interative\\Lab_07_1interative.cpp",
+              "RelativeDocumentMoniker": "Lab_07_1interative.cpp",
+              "ToolTip": "C:\\st\\AP\\07\\Lab_07_1\\Lab_07_1interative\\Lab_07_1interative\\Lab_07_1interative.cpp",
+              "RelativeToolTip": "Lab_07_1interative.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T11:03:40.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
